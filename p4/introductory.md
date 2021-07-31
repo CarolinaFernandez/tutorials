@@ -1,5 +1,7 @@
 ## P4 tutorial - introductory
 
+---
+
 ### Agenda
 
 1. General considerations
@@ -16,7 +18,11 @@
 1. Materials and references
     * Pointers
 
+---
+
 ### General considerations
+
+---
 
 ### Different specs
 
@@ -24,6 +30,8 @@
   * Still supported by big vendors, e.g., Barefoot
 * P4\_16
   * Mostly used nowadays and supported by open-source compilers
+
+---
 
 ### History
 
@@ -38,6 +46,8 @@
 * 2017/05: P4_16 Specification released (v1.0.0)
 * 2018/11: P4_14 v1.0.5
 * 2018/11: P4_16 v1.0.1
+
+---
 
 ### To be continued
 
